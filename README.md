@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Harpreet Kaur
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)] https://www.linkedin.com/in/harpreet01414
+[!LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)] https://www.linkedin.com/in/harpreet01414
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
