@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harpreet Kaur</h1>
+<h1 align="center">Hi there! ![Waving Hand](https://raw.githubusercontent.com/harpreet1423/harpreet1423/main/waving-hand.gif)
+, I'm Harpreet Kaur</h1>
 
 ###
 
