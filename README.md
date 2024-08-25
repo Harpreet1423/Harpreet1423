@@ -13,7 +13,6 @@
 - 📅 Joined GitHub 1 year ago
 - 🌍 Panipat
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harpreet1423&theme=react-dark)
 
 
 
