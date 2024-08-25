@@ -2,7 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/harpreet01414)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harpreet1423&show_icons=true&theme=radical)    ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harpreet1423e&theme=react-dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harpreet1423&show_icons=true&theme=radical)    
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harpreet1423e&theme=react-dark)
 
 
 
