@@ -1,7 +1,7 @@
 Hi 👋, I'm Harpreet Kaur
 
-# 💫 About Me:
-MERN Stack Developer, Cloud & DevOps Enthusiast
+#  MERN Stack Developer, Cloud & DevOps Enthusiast
+
 
 
 ## 🌐 Socials:
