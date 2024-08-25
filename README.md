@@ -1,13 +1,19 @@
 ## Hi 👋, I'm Harpreet Kaur
 
-<h1 align="center" style="font-size: 36px;">MERN Stack Developer</h1>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harpreet01414)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=GitHub&logoColor=white)]([your-github-url)](https://github.com/Harpreet1423/Harpreet1423/)
 
+# MERN Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/harpreet01414)
+## Productivity Stats 📈
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harpreet1423&show_icons=true&theme=radical)    
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harpreet1423&show_icons=true&theme=radical&count_private=true)
 
+- 📁 2 Public Repos
+- 📅 Joined GitHub 1 year ago
+- 🌍 Panipat
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harpreet1423&theme=react-dark)
 
 
 
