@@ -1,11 +1,13 @@
 ## Hi 👋, I'm Harpreet Kaur
 
+<h1 align="center" style="font-size: 36px;">MERN Stack Developer</h1>
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/harpreet01414)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harpreet1423&show_icons=true&theme=radical)    
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harpreet1423e&theme=react-dark)
 
 
 
