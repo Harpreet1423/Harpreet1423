@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Harpreet Kaur
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harpreet01414)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=GitHub&logoColor=white)]([your-github-url)](https://github.com/Harpreet1423/Harpreet1423/)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=GitHub&logoColor=white)](https://github.com/Harpreet1423)
 
 # MERN Stack Developer
 
